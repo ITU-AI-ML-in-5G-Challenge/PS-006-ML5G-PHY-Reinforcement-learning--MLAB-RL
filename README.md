@@ -10,6 +10,7 @@ We costomize the RL agent (beamselect_env.py) to [beamselect_env_customState.py]
 ## Submission files
 The presentation slide, report, and result videos are available at [here](https://drive.google.com/drive/u/1/folders/1qTdgdtIQepQNLgbPhEI6YjA2dGHxvnkq)
 >In the video folder, two videos for the episodes with the largest value and smallest value for the average returned rewards are provided, respectively.
+
 >For more details, please refer to our report.
 
 ## Radio Strike main links
